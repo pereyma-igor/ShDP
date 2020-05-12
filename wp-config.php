@@ -18,6 +18,7 @@
  * @package WordPress
  */
 
+ set_time_limit(300);
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'igpmarket' );
