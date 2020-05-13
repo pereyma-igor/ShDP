@@ -675,11 +675,11 @@ if ( ! function_exists( 'spacious_footer_copyright' ) ) :
 	function spacious_footer_copyright() {
 		$site_link = '<a href="' . esc_url( home_url( '/' ) ) . '" title="' . esc_attr( get_bloginfo( 'name', 'display' ) ) . '" ><span>' . get_bloginfo( 'name', 'display' ) . '</span></a>';
 
-		$wp_link = '<a href="' . esc_url( 'https://wordpress.org' ) . '" target="_blank" title="' . esc_attr__( 'WordPress', 'spacious' ) . '"><span>' . __( 'WordPress', 'spacious' ) . '</span></a>';
+		$wp_link = '<a href="' . esc_url( 'https://wordpress.org' ) . '" target="_blank" title="' . esc_attr__( 'WordPress', 'IgP' ) . '"><span>' . __( 'WordPress', 'IgP' ) . '</span></a>';
 
-		$tg_link = '<a href="' . esc_url( 'https://themegrill.com/themes/spacious' ) . '" target="_blank" title="' . esc_attr__( 'ThemeGrill', 'spacious' ) . '" rel="author"><span>' . __( 'ThemeGrill', 'spacious' ) . '</span></a>';
+		$tg_link = '<a href="' . esc_url( 'https://www.instagram.com/pereyma_igor/' ) . '" target="_blank" title="' . esc_attr__( 'Pereyma Igor', 'IgP' ) . '" rel="author"><span>' . __( 'Pereyma Igor', 'IgP' ) . '</span></a>';
 
-		$default_footer_value = sprintf( __( 'Copyright &copy; %1$s %2$s.', 'spacious' ), date( 'Y' ), $site_link ) . ' ' . sprintf( __( 'Powered by %s.', 'spacious' ), $wp_link ) . ' ' . sprintf( __( 'Theme: %1$s by %2$s.', 'spacious' ), 'Spacious', $tg_link );
+		$default_footer_value = sprintf( __( 'Copyright &copy; %1$s %2$s.', 'IgP' ), date( 'Y' ), $site_link ) . ' ' . sprintf( __( 'Powered by %s.', 'IgP' ), $wp_link ) . ' ' . sprintf( __( 'Theme: %1$s by %2$s.', 'IgP' ), 'IgP', $tg_link );
 
 		$spacious_footer_copyright = '<div class="copyright">' . $default_footer_value . '</div>';
 		echo $spacious_footer_copyright;

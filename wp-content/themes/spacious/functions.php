@@ -176,8 +176,8 @@ if ( ! function_exists( 'spacious_setup' ) ) :
 						array(
 							'text_main'       => esc_html__( 'Call to Action Main Text', 'spacious' ),
 							'text_additional' => esc_html__( 'Call to Action Additional Text', 'spacious' ),
-							'button_text'     => esc_html__( 'Theme Info', 'spacious' ),
-							'button_url'      => 'https://themegrill.com/themes/spacious/',
+							'button_text'     => esc_html__( 'Theme Info', 'Pereyma Igor' ),
+							'button_url'      => 'https://www.instagram.com/pereyma_igor/',
 						),
 					),
 				),
@@ -462,4 +462,3 @@ if ( ! defined( 'ELEMENTOR_PARTNER_ID' ) ) {
 if ( defined( 'ELEMENTOR_VERSION' ) ) {
 	require_once( SPACIOUS_INCLUDES_DIR . '/elementor/elementor.php' );
 }
-
