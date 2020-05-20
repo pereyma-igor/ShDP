@@ -1,0 +1,20 @@
+2020-05-20T14:59:06+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_set_charset() in D:\localhost\openserver\OpenServer\domains\localhost\wp-content\plugins\ti-woocommerce-wishlist\templates\ti-wishlist.php:8
+Stack trace:
+#0 D:\localhost\openserver\OpenServer\domains\localhost\wp-content\plugins\woocommerce\includes\wc-core-functions.php(251): include()
+#1 D:\localhost\openserver\OpenServer\domains\localhost\wp-content\plugins\ti-woocommerce-wishlist\tinv-wishlists-function.php(141): wc_get_template('ti-wishlist.php', Array, '')
+#2 D:\localhost\openserver\OpenServer\domains\localhost\wp-content\plugins\ti-woocommerce-wishlist\public\wishlist\view.class.php(707): tinv_wishlist_template('ti-wishlist.php', Array)
+#3 D:\localhost\openserver\OpenServer\domains\localhost\wp-content\plugins\ti-woocommerce-wishlist\public\wishlist\view.class.php(829): TInvWL_Public_Wishlist_View->htmloutput(Array)
+#4 D:\localhost\openserver\OpenServer\domains\localhost\wp-content\plugins\ti-woocommerce-wishlist\tinv-wishlists-function.php(527): TInvWL_ у D:\localhost\openserver\OpenServer\domains\localhost\wp-content\plugins\ti-woocommerce-wishlist\templates\ti-wishlist.php доступно 8
+
+2020-05-20T14:59:09+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_set_charset() in D:\localhost\openserver\OpenServer\domains\localhost\wp-content\plugins\ti-woocommerce-wishlist\templates\ti-wishlist.php:8
+Stack trace:
+#0 D:\localhost\openserver\OpenServer\domains\localhost\wp-content\plugins\woocommerce\includes\wc-core-functions.php(251): include()
+#1 D:\localhost\openserver\OpenServer\domains\localhost\wp-content\plugins\ti-woocommerce-wishlist\tinv-wishlists-function.php(141): wc_get_template('ti-wishlist.php', Array, '')
+#2 D:\localhost\openserver\OpenServer\domains\localhost\wp-content\plugins\ti-woocommerce-wishlist\public\wishlist\view.class.php(707): tinv_wishlist_template('ti-wishlist.php', Array)
+#3 D:\localhost\openserver\OpenServer\domains\localhost\wp-content\plugins\ti-woocommerce-wishlist\public\wishlist\view.class.php(829): TInvWL_Public_Wishlist_View->htmloutput(Array)
+#4 D:\localhost\openserver\OpenServer\domains\localhost\wp-content\plugins\ti-woocommerce-wishlist\tinv-wishlists-function.php(527): TInvWL_ у D:\localhost\openserver\OpenServer\domains\localhost\wp-content\plugins\ti-woocommerce-wishlist\templates\ti-wishlist.php доступно 8
+
+2020-05-20T15:05:58+00:00 CRITICAL syntax error, unexpected '<', expecting end of file у D:\localhost\openserver\OpenServer\domains\localhost\wp-content\plugins\ti-woocommerce-wishlist\templates\ti-wishlist.php доступно 8
+
+2020-05-20T15:06:42+00:00 CRITICAL syntax error, unexpected '<', expecting end of file у D:\localhost\openserver\OpenServer\domains\localhost\wp-content\plugins\ti-woocommerce-wishlist\templates\ti-wishlist.php доступно 2
+
