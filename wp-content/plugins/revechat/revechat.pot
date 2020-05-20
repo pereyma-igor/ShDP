@@ -1,0 +1,39 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: REVE Chat - WP Live Chat Support plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-20 16:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.4; wp-5.4.1"
+
+#. Author of the plugin
+msgid "REVE Chat"
+msgstr ""
+
+#. Name of the plugin
+msgid "REVE Chat - WP Live Chat Support plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"REVE Chat is a powerful and intuitive real-time customer engagement software."
+" As a customer support software, REVE Chat puts a live person on your "
+"website to personally guide and help your visitors, while they go through "
+"the various sections of your digital display. This live chat service helps "
+"them to get the most out of your web presence, while allowing you to "
+"understand their diverse needs on a one-to-one basis. REVE Chat is easy to "
+"install and use."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "www.revechat.com"
+msgstr ""
